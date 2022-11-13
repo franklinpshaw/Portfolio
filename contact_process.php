@@ -34,7 +34,4 @@
 
     $send = mail($to, $subject, $body, $headers);
 
-// Hey Luis, your password for accessing the 192.168.0.101 server is now changed to 'xF247zByE'.
-// And please knock the door 7k 8k 9k times when you come...I might be sleeping
-
 ?>
